@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Half An Episode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ajustes</string>
+    
+    
+    <string name="add">+ Añadir episodio a medias...</string>
+    <string name="add_title">Añadir episodio a medias</string>
+    <string name="show">Serie</string>
+    <string name="season">Temporada</string>
+    <string name="episode">Capítulo</string>
+    <string name="addbutton">Añadir</string>
+    <string name="cancelbutton">Cancelar</string>
+    <string name="seen">¡Visto!</string>
+	<string name="mantain">Mantener</string>
+    
+    
+</resources>
